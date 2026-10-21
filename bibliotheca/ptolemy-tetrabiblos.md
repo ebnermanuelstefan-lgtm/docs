@@ -1,20 +1,21 @@
 ---
+title: "Tetrabiblos, Claudius Ptolemy"
+description: "Ptolemy's case for astrology as a probable natural science, and its standard textbook for fifteen centuries."
+room: bibliotheca
 type: source
+shelf: astrology
 kind: book
-title: "Tetrabiblos (Apotelesmatika)"
 author: "Claudius Ptolemy"
 year: "2nd century CE"
-language: other
-domain: astrology
-status: to-read
-date-finished:
+status: unread
 rating:
 tags: [hellenistic, natal, mundane, theory]
+created: 2026-10-21
+updated: 2026-10-21
+lang: en
 ---
 
-# Tetrabiblos, Claudius Ptolemy
-
-## Summary in three sentences
+## In three sentences
 Ptolemy wrote this companion to the *Almagest* in second-century Alexandria. In it he separates astronomy, certain knowledge of the heavens' motions, from astrology, probable knowledge of their effects that is no less real than medicine or navigation. He explains planetary influence "physically" through hot, cold, wet and dry, and he covers both the fate of peoples and the individual nativity. Its systematic, naturalistic approach made it the standard astrological textbook for some fifteen centuries.
 
 > **BG:** Основният учебник по астрология от Античността до Новото време. Птолемей разграничава точната астрономия от вероятностната астрология и обяснява планетите чрез топло, студено, влажно и сухо.
@@ -29,12 +30,12 @@ Ptolemy wrote this companion to the *Almagest* in second-century Alexandria. In 
 ## Quotations
 - Prognostication from the heavens is, if not infallible, at least useful, like the pilot's or the physician's forecast. (I.2–3, paraphrase of the argument)
 
-## My response
-<!-- Mani: prompts: if astrology is "probable, not certain", how should that shape how you use your chart in decisions (speculum)? Do you use the tropical zodiac, as Ptolemy does? -->
+## Your response
+*To be written. Prompts: if astrology is "probable, not certain", how should that shape how you use your chart in decisions (speculum)? Do you use the tropical zodiac, as Ptolemy does?*
 
 ## Connections
-- Domain map: [[astrology]]
-- [[emerald-tablet]]: correspondence as metaphysics. Ptolemy offers a physical mechanism instead.
-- [[marcus-aurelius-meditations]]: the Stoic cosmos of sympathy.
+- Shelf: [Astrology](/bibliotheca/astrology)
+- [The Emerald Tablet, attributed to Hermes Trismegistus](/bibliotheca/emerald-tablet): correspondence as metaphysics. Ptolemy offers a physical mechanism instead.
+- [Meditations, Marcus Aurelius](/bibliotheca/marcus-aurelius-meditations): the Stoic cosmos of sympathy.
 - Templates: lunar review, with the Moon as Ptolemy's moist, changeable luminary.
 - Editions: Robbins trans., Loeb 435 (1940), Greek and English on facing pages. Schmidt / Project Hindsight. Brennan, *Hellenistic Astrology* (2017).

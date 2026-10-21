@@ -1,20 +1,21 @@
 ---
+title: "Physiologie du goût, Jean Anthelme Brillat-Savarin"
+description: "The founding text of gastronomy: taste as knowledge and hospitality as duty."
+room: bibliotheca
 type: source
+shelf: fine-living
 kind: book
-title: "Physiologie du goût"
 author: "Jean Anthelme Brillat-Savarin"
 year: 1825
-language: fr
-domain: fine-living
-status: to-read
-date-finished:
+status: unread
 rating:
 tags: [gastronomy, table, hospitality, art-de-vivre]
+created: 2026-10-21
+updated: 2026-10-21
+lang: en
 ---
 
-# Physiologie du goût, Jean Anthelme Brillat-Savarin
-
-## Summary in three sentences
+## In three sentences
 Brillat-Savarin, a judge of the Cour de cassation who had spent the Revolution in exile, partly in America, published this book at his own expense in December 1825, two months before he died. It opens with twenty aphorisms and continues through thirty *méditations* on the senses, appetite, the gourmand, sleep, obesity and the history of cooking. It founds gastronomy as "the reasoned knowledge of everything that relates to man as he nourishes himself" and treats hospitality as a moral duty.
 
 > **BG:** Брия-Саварен превръща храненето в култура: „Кажи ми какво ядеш и ще ти кажа какъв си.“ Гостоприемството за него е отговорност за щастието на госта.
@@ -32,11 +33,11 @@ Brillat-Savarin, a judge of the Cour de cassation who had spent the Revolution i
 - « La découverte d'un mets nouveau fait plus pour le bonheur du genre humain que la découverte d'une étoile. » (Aph. IX)
 - « Convier quelqu'un, c'est se charger de son bonheur pendant tout le temps qu'il est sous notre toit. » (Aph. XX)
 
-## My response
-<!-- Mani: prompts: read Aphorism XX as a hosting checklist. What do guests need from you that has nothing to do with the food? Which dish was your own "discovery of a star"? -->
+## Your response
+*To be written. Prompts: read Aphorism XX as a hosting checklist. What do guests need from you that has nothing to do with the food? Which dish was your own "discovery of a star"?*
 
 ## Connections
-- Domain map: [[fine-living]]
-- [[vitruvius-de-architectura]]: *decor*, the fitness of a setting. The dining room is an architecture of pleasure.
-- [[marcus-aurelius-meditations]]: Stoic restraint against Epicurean refinement. Where does fine living sit?
+- Shelf: [Fine living](/bibliotheca/fine-living)
+- [De architectura, Vitruvius](/bibliotheca/vitruvius-de-architectura): *decor*, the fitness of a setting. The dining room is an architecture of pleasure.
+- [Meditations, Marcus Aurelius](/bibliotheca/marcus-aurelius-meditations): Stoic restraint against Epicurean refinement. Where does fine living sit?
 - Editions: original on Gallica (BnF) and Project Gutenberg. M. F. K. Fisher trans. (1949), annotated. Then Grimod de La Reynière, *Almanach des gourmands* (1803–12).

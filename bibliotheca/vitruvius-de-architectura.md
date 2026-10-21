@@ -1,20 +1,21 @@
 ---
+title: "De architectura, Vitruvius"
+description: "The only architectural treatise surviving whole from antiquity, and the source of firmitas, utilitas, venustas."
+room: bibliotheca
 type: source
+shelf: architecture
 kind: book
-title: "De architectura"
 author: "Vitruvius"
 year: "c. 30–15 BCE"
-language: other
-domain: architecture
-status: to-read
-date-finished:
+status: unread
 rating:
 tags: [classical, roman, proportion, theory]
+created: 2026-10-21
+updated: 2026-10-21
+lang: en
 ---
 
-# De architectura, Vitruvius
-
-## Summary in three sentences
+## In three sentences
 *De architectura* is the only architectural treatise from antiquity to survive whole: ten books by a Roman military engineer, dedicated to Augustus, ranging from materials and temples to water, sundials and machines. It sets out the West's most durable definition of good building, *firmitas, utilitas, venustas*, and derives beauty from the proportions of the human body. Renaissance humanists made it the authority behind Alberti, Palladio and the whole classical tradition.
 
 > **BG:** Единственият изцяло запазен античен трактат по архитектура. Всяка сграда трябва да има здравина, полезност и красота, а красотата се извежда от пропорциите на човешкото тяло.
@@ -30,12 +31,12 @@ tags: [classical, roman, proportion, theory]
 - "All these must be built with due reference to durability, convenience, and beauty." (I.3.2, Morgan trans.)
 - The navel is the centre of the body: with arms and legs extended, a circle drawn around it touches fingers and toes. (III.1.3, paraphrase)
 
-## My response
-<!-- Mani: your own reading. Prompts: which of the three do you sacrifice first in your own spaces, and which never? Is venustas objective proportion, or custom (as decor half-admits)? -->
+## Your response
+*To be written. Prompts: which of the three do you sacrifice first in your own spaces, and which never? Is venustas objective proportion, or custom (as decor half-admits)?*
 
 ## Connections
-- Domain map: [[architecture]]
-- [[emerald-tablet]]: man as the measure of the cosmos, microcosm and macrocosm in stone.
-- [[wolfflin-principles-of-art-history]]: the classical canon that Wölfflin's "linear" style grows from.
-- [[brillat-savarin-physiologie-du-gout]]: *decor* as propriety, the same instinct as a well-set table.
+- Shelf: [Architecture](/bibliotheca/architecture)
+- [The Emerald Tablet, attributed to Hermes Trismegistus](/bibliotheca/emerald-tablet): man as the measure of the cosmos, microcosm and macrocosm in stone.
+- [Principles of Art History, Heinrich Wölfflin](/bibliotheca/wolfflin-principles-of-art-history): the classical canon that Wölfflin's "linear" style grows from.
+- [Physiologie du goût, Jean Anthelme Brillat-Savarin](/bibliotheca/brillat-savarin-physiologie-du-gout): *decor* as propriety, the same instinct as a well-set table.
 - Editions: Morgan trans. (1914, public domain). Rowland & Howe trans. (Cambridge, 1999, illustrated). Then Alberti, *De re aedificatoria* (1452).
