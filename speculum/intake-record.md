@@ -55,4 +55,4 @@ Samples received on 2026-10-21: five cards (image posts) and earlier messages. W
 ## Part IV: practicalities
 
 - **Devices by place (Q17):** iPhone through the day. MacBook Pro at work. iPad with Notability in lectures. No single home for the palace; it follows the device in hand.
-- **Visibility (Q18):** decided on 2026-10-21: the repository becomes private. The switch must be turned by the owner in GitHub settings; Claude's access cannot change repository settings. Until the switch is turned, the public rules hold. What must never be stored even then: still to be asked.
+- **Visibility (Q18):** decided on 2026-10-21: the repository becomes private. The switch must be turned by the owner in GitHub settings; Claude's access cannot change repository settings. Until the switch is turned, the public rules hold. Even in private, never: passwords, keys, tokens, account numbers. Everything else may enter (answer read as option a; say so if you meant otherwise).

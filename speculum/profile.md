@@ -83,7 +83,9 @@ What you have asked Claude to watch for.
 
 ## Boundaries
 
-What must never be stored here, and what is yours alone to decide.
+- **Visibility:** the repository is to become private, by your decision of 2026-10-21. Until you turn the switch in GitHub, the public rules hold.
+- **Never stored, even in private:** passwords, keys, tokens, and account numbers. Everything else may enter once the repository is private.
+- **Yours alone to decide:** the matters you named at question 13, kept in conversation until the repository is private. Claude does not push there.
 
 ## Symbolic layer
 
