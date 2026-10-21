@@ -1,6 +1,6 @@
 ---
 title: "Intake record"
-description: "What the palace has learned in Parts I to IV of the intake. Health details are kept out while the repository is public."
+description: "What the palace has learned in the five parts of the intake. Health details are kept out while the repository is public."
 room: speculum
 type: record
 status: intake-in-progress
@@ -57,3 +57,8 @@ Samples received on 2026-10-21: five cards (image posts) and earlier messages. W
 - **Devices by place (Q17):** iPhone through the day. MacBook Pro at work. iPad with Notability in lectures. No single home for the palace; it follows the device in hand.
 - **Visibility (Q18):** decided on 2026-10-21: the repository becomes private. The switch must be turned by the owner in GitHub settings; Claude's access cannot change repository settings. Until the switch is turned, the public rules hold. Even in private, never: passwords, keys, tokens, account numbers. Everything else may enter (answer read as option a; say so if you meant otherwise).
 - **Time (Q19):** "I have no time." Floor setting agreed by silence: capture only, plus one 25-minute weekly review. No daily ritual. Claude carries the rest. Review day: to be proposed by Claude.
+
+## Part V: the symbolic layer
+
+- **Astrology (Q20):** yes. Natal data after the repository is private.
+- **Personality inventory:** yes; test and result still to be given.

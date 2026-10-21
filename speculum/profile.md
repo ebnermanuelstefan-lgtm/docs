@@ -7,7 +7,7 @@ status: intake-in-progress
 updated: 2026-10-21
 ---
 
-**Status: intake in progress.** Parts I to III are recorded. Parts IV and V are still to come. Correct anything that feels wrong; your corrections outrank Claude's inferences.
+**Status: intake complete, with open items.** All five parts are recorded. Open: the review day (Claude proposes), the personality test result, natal data once the repository is private. Correct anything that feels wrong; your corrections outrank Claude's inferences.
 
 ## Essence
 
@@ -90,4 +90,5 @@ What you have asked Claude to watch for.
 
 ## Symbolic layer
 
-Optional. Natal data and chosen lenses, recorded only once the repository is private.
+- **Astrology:** yes, as a lens in the Speculum and in the review calendar. Natal data enter only once the repository is private.
+- **Personality inventory:** yes; which test and what result, still to be given.
