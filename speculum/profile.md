@@ -62,7 +62,8 @@ Everything slips at times: ideas, tasks, deadlines, files, promises, names, and 
 
 - **Store:** Saturday and Sunday 10:00–18:00, Monday 10:00–17:00.
 - **University:** Tuesday to Friday, roughly 08:00 to 19:30.
-- **Morning routine** from 2026-10-25: 07:30–09:00 daily.
+- **Wake anchor:** 08:00 every day, moved from 07:30 on 2026-10-21. Aim to stay within one hour.
+- **Morning routine** from 2026-10-25: starts at 08:00 daily.
 - **Free time:** almost none. Evenings only.
 
 Sharpest hours and what derails you: still to learn.
