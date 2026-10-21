@@ -1,6 +1,6 @@
 ---
 title: "Intake record"
-description: "What the palace has learned in Parts I to III of the intake. Health details are kept out while the repository is public."
+description: "What the palace has learned in Parts I to IV of the intake. Health details are kept out while the repository is public."
 room: speculum
 type: record
 status: intake-in-progress
@@ -17,9 +17,9 @@ Health details are not recorded here while this repository is public. They stay 
 - **Friends:** Nikki.
 - **Money:** no overview, overspending, no plan. Income and spending are irregular. Plans exist but are not followed through.
 - **Home and organisation:** wants to become more organised. Cleaning is part of home.
-- **Digital tools:** Claude and the Apple ecosystem (iPhone, iPad, iMac, MacBook).
+- **Digital tools:** Claude and the Apple ecosystem (iPhone, iPad, MacBook Pro).
 - **Interests:** architecture, interior design, sales and people, luxury and fashion, business and management, drawing, painting, abstract art, colour theory (to learn), philosophy, Hermeticism, astrology, numerology, Buddhism, classical arts, opera, ballet, fine living, tennis, golf, yoga. Piano is paused.
-- **Capture points:** Apple Notes, Reminders, Notability, paper, saved photos. Calendars: iCloud (main) and Google.
+- **Capture points:** Apple Notes, Reminders, Notability, paper, saved photos. Calendars: Apple Calendar (default) and Google.
 - **What slips:** everything at times. The costliest is tasks, errands, and small promises.
 - **Regret and long-term goal:** did not apply to EPFL for a full architecture degree. EPFL remains open later, after the Bulgarian degree and licence to practise.
 
@@ -51,3 +51,7 @@ Samples received on 2026-10-21: five cards (image posts) and earlier messages. W
 - **Register you want from Claude:** high English, high Bulgarian, high French, with proper grammar throughout.
 - **Dislikes in writing (Q16):** jargon above all. Empty phrases and excessive flattery. Emoji are welcome in small doses; honest praise is welcome. The ideal message is kind, direct, strict, potent, and brief.
 - **Open:** whether "Дай си малко време…" is your own text or a quotation you keep.
+
+## Part IV: practicalities
+
+- **Devices by place (Q17):** iPhone through the day. MacBook Pro at work. iPad with Notability in lectures. No single home for the palace; it follows the device in hand.

@@ -24,6 +24,6 @@ The tablinum was the room of the Roman house where the head of the family receiv
 | Friends | To define | Monthly | active |
 | Money | First standard: an overview of where it goes | Weekly | active |
 | Home and organisation | To define: cleaning, order, routines | Weekly | active |
-| Digital tools | Claude and the Apple ecosystem (iPhone, iPad, iMac, MacBook) working together | Monthly | active |
+| Digital tools | Claude and the Apple ecosystem (iPhone, iPad, MacBook Pro) working together | Monthly | active |
 
 Standards marked "to define" are set at the first weekly review.

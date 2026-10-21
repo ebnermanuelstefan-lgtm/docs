@@ -48,7 +48,9 @@ The detail lives in the [polarity map](/speculum/polarity-map).
 
 ## Capture points
 
-Where information lives today: Apple Notes, Reminders, Notability, paper, and saved photos. Calendars: iCloud (main) and Google.
+Where information lives today: Apple Notes, Reminders, Notability, paper, and saved photos. Calendars: Apple Calendar (default) and Google.
+
+**Devices by place.** iPhone through the day. MacBook Pro at work. iPad with Notability in lectures. The palace must meet you on all three: capture on the phone, write on the Mac, read and annotate on the iPad.
 
 Everything slips at times: ideas, tasks, deadlines, files, promises, names, and physical things. The one that costs most: **tasks, errands, and small promises.**
 
