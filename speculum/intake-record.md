@@ -49,4 +49,5 @@ Samples received on 2026-10-21: five cards (image posts) and earlier messages. W
 - **Themes:** time as the true wealth, belief in oneself, everyone as an artist, the sun rising again. The earlier sample "Мани е #прекрасник" shows the warm, playful side, with a hashtag as punctuation.
 - **Languages by subject (Q15):** English is a second mother tongue, spoken since the age of three with your father. English to analyse emotions; Bulgarian to feel them, unanalysed. Bulgarian for studies and work, with English drifting in. French once good, now faded. The choice also depends on the person you are speaking with.
 - **Register you want from Claude:** high English, high Bulgarian, high French, with proper grammar throughout.
-- **Open:** whether "Дай си малко време…" is your own text or a quotation you keep. Q16 (what you dislike in writing) is still to be asked.
+- **Dislikes in writing (Q16):** jargon above all. Empty phrases and excessive flattery. Emoji are welcome in small doses; honest praise is welcome. The ideal message is kind, direct, strict, potent, and brief.
+- **Open:** whether "Дай си малко време…" is your own text or a quotation you keep.

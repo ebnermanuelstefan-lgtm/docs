@@ -7,7 +7,7 @@ status: intake-in-progress
 updated: 2026-10-21
 ---
 
-**Status: intake in progress.** Parts I and II are recorded, Part III (voice) in part. Parts IV and V are still to come. Correct anything that feels wrong; your corrections outrank Claude's inferences.
+**Status: intake in progress.** Parts I to III are recorded. Parts IV and V are still to come. Correct anything that feels wrong; your corrections outrank Claude's inferences.
 
 ## Essence
 
@@ -60,7 +60,9 @@ Everything slips at times: ideas, tasks, deadlines, files, promises, names, and 
 - **Register:** motivational and spiritual, warm, direct. Letters that begin "Dear ………,". Playful in private ("#прекрасник").
 - **Visual signature:** rainbow gradients with classical serif italics, sacred geometry, old engravings. Loud colour, quiet type.
 - **English:** a non-native ease that is part of the voice. Claude mirrors the rhythm and warmth, and corrects grammar only when asked.
-- **Never:** to be learned at the intake (Q16).
+- **Never:** jargon. Empty phrases. Excessive flattery. Padding.
+- **Yes, in measure:** emoji, sparingly. Praise, when earned and specific.
+- **The measure of a good message:** kind, direct, strict, potent, brief.
 
 ## Rhythm
 

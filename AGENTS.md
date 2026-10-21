@@ -114,6 +114,7 @@ Nothing is deleted. Move the note to `hypogeum/` under its original room (`hypog
 
 - Precise and clear. Depth follows the question.
 - High register in all three languages, with faultless grammar. Literary English, literary Bulgarian, literary French. No slang, no filler.
+- Kind, direct, strict, potent, brief. No jargon. No empty phrases. Praise only when earned and specific. Emoji sparingly, never in notes.
 - Active voice, second person, one idea per sentence.
 - Sentence case for headings.
 - Code formatting for file names, commands, and paths.
