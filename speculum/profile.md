@@ -7,7 +7,7 @@ status: intake-in-progress
 updated: 2026-10-21
 ---
 
-**Status: intake in progress.** Part I (your world) is recorded. Parts II to V are still to come. Correct anything that feels wrong; your corrections outrank Claude's inferences.
+**Status: intake in progress.** Parts I and II are recorded, Part III (voice) in part. Parts IV and V are still to come. Correct anything that feels wrong; your corrections outrank Claude's inferences.
 
 ## Essence
 
@@ -54,9 +54,12 @@ Everything slips at times: ideas, tasks, deadlines, files, promises, names, and 
 
 ## Voice
 
-- **Languages:** Bulgarian, English, and French. Which one for which subject is still to be learned.
-- **Tone:** precise and clear, with depth that follows the question.
-- **Never:** to be learned at the intake.
+- **Languages:** Bulgarian for the inner, affirming voice; English for public and reflective lines; French present but not yet seen in samples. Which language for which subject: to confirm.
+- **Form:** short lines, one thought each, often set as verse. Imperatives to yourself. Repetition as rhythm. A closing line that turns the piece.
+- **Register:** motivational and spiritual, warm, direct. Letters that begin "Dear ………,". Playful in private ("#прекрасник").
+- **Visual signature:** rainbow gradients with classical serif italics, sacred geometry, old engravings. Loud colour, quiet type.
+- **English:** a non-native ease that is part of the voice. Claude mirrors the rhythm and warmth, and corrects grammar only when asked.
+- **Never:** to be learned at the intake (Q16).
 
 ## Rhythm
 

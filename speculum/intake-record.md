@@ -1,6 +1,6 @@
 ---
 title: "Intake record"
-description: "What the palace has learned in Parts I and II of the intake. Health details are kept out while the repository is public."
+description: "What the palace has learned in Parts I to III of the intake. Health details are kept out while the repository is public."
 room: speculum
 type: record
 status: intake-in-progress
@@ -37,3 +37,14 @@ Health details are not recorded here while this repository is public. They stay 
 - **Blind spots (all four named):** planning more than following through; skipping checks before moving on; harshness toward yourself, with excuses; moving on to the next idea before the current one is finished.
 - **Pushback:** notice first and wait. If it matters, argue once, clearly. Then yield to your decision. Free to push on everything, with values countered only when you ask.
 - **Pauses:** big commitments (money, signing, starting something new) wait 48 hours.
+
+## Part III: your voice
+
+Samples received on 2026-10-21: five cards (image posts) and earlier messages. What they show:
+
+- **Form:** short lines, one thought per line, set as verse. Repetition as rhythm ("Вярвай … Вярвай в себе си … Вярвай!"). Imperatives in the second person. Capitals or italics for weight. A closing line that turns the whole piece ("Be your own artist", "Никой не е по-богат от някой, който има време").
+- **Register:** motivational and spiritual, addressed to yourself as much as to others. Letters that open "Dear ………," with the name left blank. Questions to the self: "What advice would I give myself 10 years ago?"
+- **Languages:** Bulgarian for the inner, affirming voice. English for public and reflective lines, with a non-native ease ("The Sun will rises everyday", "some simply has more ego") that is part of the voice, not a fault to correct unless you ask.
+- **Visual signature:** rainbow gradients, white or black serif italics, sacred geometry (the Flower of Life), nineteenth-century engravings (sunrise over water). Colour is loud, type is classical.
+- **Themes:** time as the true wealth, belief in oneself, everyone as an artist, the sun rising again. The earlier sample "Мани е #прекрасник" shows the warm, playful side, with a hashtag as punctuation.
+- **Open:** whether "Дай си малко време…" is your own text or a quotation you keep. Q15 (which language for which subject) and Q16 (what you dislike in writing) are still to be asked.
