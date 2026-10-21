@@ -3,26 +3,36 @@ title: "Profile"
 description: "A living portrait of the owner: voice, values, taste, and current season. Built from the intake and revised each season."
 room: speculum
 type: profile
-status: awaiting-intake
+status: active
 created: 2026-10-21
 updated: 2026-10-21
-lang: en
+lang: bg
 ---
 
-This page is empty until the [intake](/speculum/intake) is answered. Claude reads it before any heavy work and mirrors what it records.
+Портрет, изграден от [анкетата](/speculum/intake). Claude го чете преди всяка по-тежка работа и отразява записаното тук. Празните полета се попълват с останалите въпроси през първия лунен цикъл.
+
+## В един абзац
+
+Студент по архитектура в София, който едновременно развива кариера в луксозната мъжка мода като консултант по продажби и стилист. Гради устойчиви системи за организация, последователност и довършване, вместо да разчита на мотивация или напрежение. Мото: *„Clear vision backed by daily action creates a life of freedom.“*
 
 ## Voice
 
-- **Thinking language:**
-- **Default reply language:**
-- **Register:**
+- **Thinking language:** български; английски, когато говори или е сред англоговорящи.
+- **Default reply language:** български, освен ако темата или събеседникът не изискват друго.
+- **Register:** директен, задълбочен, честен, без общи приказки. Кратко и структурирано, когато темата е тежка или задачите са много. Практично, водещо до действие.
+- **Terms:** в българските текстове термините се превеждат; английският остава в скоби само при нужда.
+- **Personal topics:** разговор с по един въпрос наведнъж.
+- **Study material:** ясни обобщения и флашкарти.
+- **Architecture:** ясно, академично и стегнато, с внимание към контекст, мащаб, конструкция, пространствена концепция, стил и критика.
+- **Esoteric analysis** (астрология, Human Design, нумерология, таро): професионално, конкретно, без драматизъм.
 - **Echoes:**
 
 ## Lararium
 
 The household shrine: values, refusals, and the traditions you return to. Claude mirrors this section and never counterweights it.
 
-- **Values:**
+- **Values:** дисциплина, творчество, устойчивост; системите пред мотивацията; уважение към вкуса на другия (в обслужването клиентът избира, без съд).
+- **Principle:** *Work smarter, not harder.* Сложният път, когато носи стойност; простият, когато стига.
 - **Refusals:**
 - **Touchstones:**
 
@@ -31,13 +41,23 @@ The household shrine: values, refusals, and the traditions you return to. Claude
 - **Architecture:**
 - **Art:**
 - **Books:**
-- **Luxury, as you define it:**
+- **Aesthetic:** изчистена естетика, сини и златни акценти.
+- **Luxury, as you define it:** занаят и материя: ръчно шиене, италианска технология и кройка, платове от водещи италиански тъкачи. Ценя оригиналния дизайн и различавам кога модел е копие.
 - **A beautiful ordinary day:**
 
 ## Work and life
 
 - **Projects:** see the [Atelier](/atelier).
+  - Наваксване на голям брой университетски дисциплини и проектни задачи по архитектура.
+  - Развитие като водещ luxury sales consultant и стилист, с естествен, елегантен български език и професионално обслужване.
+  - Домът като спокойно, подредено, напълно завършено и обзаведено пространство.
 - **Areas:** see the [Tablinum](/tablinum).
+  - **Архитектура:** Archicad, Twinmotion, Unreal Engine, собствена библиотека с архитектурни ресурси.
+  - **Мода:** консултант в бутик за луксозна мъжка мода.
+  - **Дом:** системите „Chaos Control“, „House Reset“ и „Super House“, които работят и в трудни дни. Ред на подреждане: боклук, дрехи, съдомиялна, мивка, повърхности.
+  - **Тяло:** редовна йога и тенис.
+  - **Творчество и четене:** поне пет книги до края на годината; рисуване всеки месец.
+- **Daily method:** една основна и една допълнителна задача за деня.
 - **What people come to you for:**
 - **What drains you:**
 
@@ -49,5 +69,5 @@ The household shrine: values, refusals, and the traditions you return to. Claude
 
 ## Season
 
-- **Current season:**
-- **Focus this season:**
+- **Current season:** есен 2026, наваксване и изграждане на системи.
+- **Focus this season:** последователност и довършване на започнатото, в учене, работа и дом.
