@@ -54,7 +54,7 @@ Everything slips at times: ideas, tasks, deadlines, files, promises, names, and 
 
 ## Voice
 
-- **Languages:** English is a second mother tongue, spoken since the age of three with your father. You turn to English to analyse and to feel your emotions, and to Bulgarian for studies and work, though English drifts in there too. French was once good and has faded; you want it back. The choice also follows the person you are speaking with.
+- **Languages:** English is a second mother tongue, spoken since the age of three with your father. English is the language in which you analyse your emotions; Bulgarian is the language in which you feel them. Studies and work run in Bulgarian, though English drifts in there too. French was once good and has faded; you want it back. The choice also follows the person you are speaking with.
 - **How Claude writes to you:** high register in all three languages, faultless grammar, literary rather than casual. Your request of 2026-10-21.
 - **Form:** short lines, one thought each, often set as verse. Imperatives to yourself. Repetition as rhythm. A closing line that turns the piece.
 - **Register:** motivational and spiritual, warm, direct. Letters that begin "Dear ………,". Playful in private ("#прекрасник").
