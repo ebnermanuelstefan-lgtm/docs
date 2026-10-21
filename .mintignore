@@ -5,17 +5,3 @@
 # Draft content
 drafts/
 *.draft.mdx
-
-# Instructions for Claude, not pages
-AGENTS.md
-CLAUDE.md
-
-# Note templates: their placeholders are not valid MDX
-_templates/
-
-# Legacy knowledge-base template, kept until the owner decides
-onboarding/
-hr-people/
-it-security/
-policies/
-engineering/
