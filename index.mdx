@@ -1,105 +1,80 @@
 ---
-title: "Mnemosyne"
-sidebarTitle: "Entrance"
-description: "A memory palace for one mind and its counterweight."
+title: "Home"
+description: "Onboarding guides, HR policies, IT help, and department runbooks for the whole company."
 mode: custom
 ---
 
 <div className="mx-auto flex w-full max-w-[720px] flex-col gap-12 px-4 py-10 lg:gap-14 lg:py-16">
   <div className="flex flex-col items-center gap-6">
-    <div className="flex max-w-[520px] flex-col gap-3 text-center">
-      <h1 className="text-4xl font-semibold tracking-tight text-gray-900 dark:text-gray-50">
-        Mnemosyne
+    <div className="flex max-w-[480px] flex-col gap-2 text-center">
+      <h1 className="text-2xl font-semibold tracking-tight text-gray-900 dark:text-gray-50">
+        Your journey begins here
       </h1>
       <p className="text-balance text-base text-gray-600 dark:text-gray-400">
-        A memory palace for one mind, and its counterweight. Mnemosyne, the Titaness of memory, was mother of the nine Muses: here, memory exists to give birth to work.
+        This is your go-to reference for how things work here. Use the tabs to navigate to different resources or search with <kbd>⌘</kbd> <kbd>K</kbd>.
       </p>
     </div>
   </div>
 
   <div className="grid grid-cols-1 gap-5 sm:grid-cols-2">
-    <a href="/speculum/intake" className="group flex flex-col outline-none">
-      <div className="kb-feature-card relative flex h-[170px] items-center justify-center overflow-hidden rounded-2xl ring-1 ring-gray-100 transition group-hover:ring-gray-200 dark:ring-white/[0.08] dark:group-hover:ring-white/15 saturate-50 group-hover:saturate-100">
+    <a
+      href="/onboarding/first-day"
+      className="group flex flex-col outline-none"
+    >
+      <div
+        className="kb-feature-card relative flex h-[170px] items-center justify-center overflow-hidden rounded-2xl ring-1 ring-gray-100 transition group-hover:ring-gray-200 dark:ring-white/[0.08] dark:group-hover:ring-white/15 saturate-50 group-hover:saturate-100"
+      >
         <div className="relative flex items-center justify-center">
-          <Icon icon="contrast" size={36} className="!bg-white" />
+          <Icon icon="calendar-1" size={36} className="!bg-white" />
         </div>
       </div>
       <div className="flex flex-col gap-1 pt-4">
-        <span className="text-base font-medium text-gray-900 dark:text-gray-50">Begin with the intake</span>
+        <span className="text-base font-medium text-gray-900 dark:text-gray-50">Your first day</span>
         <span className="text-sm leading-5 text-gray-600 dark:text-gray-400">
-          Twenty questions that teach the palace who you are, where to mirror you, and where to push against you.
+          Your first day is all about getting oriented and connecting with key team members.
         </span>
       </div>
     </a>
 
-    <a href="/palace/blueprint" className="group flex flex-col outline-none">
-      <div className="kb-feature-card relative flex h-[170px] items-center justify-center overflow-hidden rounded-2xl ring-1 ring-gray-100 transition group-hover:ring-gray-200 dark:ring-white/[0.08] dark:group-hover:ring-white/15 saturate-50 group-hover:saturate-100">
+    <a
+      href="/onboarding/tools/account-access"
+      className="group flex flex-col outline-none"
+    >
+      <div
+        className="kb-feature-card relative flex h-[170px] items-center justify-center overflow-hidden rounded-2xl ring-1 ring-gray-100 transition group-hover:ring-gray-200 dark:ring-white/[0.08] dark:group-hover:ring-white/15 saturate-50 group-hover:saturate-100"
+      >
         <div className="relative flex items-center justify-center">
-          <Icon icon="landmark" size={36} className="!bg-white" />
+          <Icon icon="key-round" size={36} className="!bg-white" />
         </div>
       </div>
       <div className="flex flex-col gap-1 pt-4">
-        <span className="text-base font-medium text-gray-900 dark:text-gray-50">Read the blueprint</span>
+        <span className="text-base font-medium text-gray-900 dark:text-gray-50">Account access</span>
         <span className="text-sm leading-5 text-gray-600 dark:text-gray-400">
-          Seven rooms above, one below. What lives where, and how a thought travels through the palace.
+          Which accounts you&apos;ll need, how to claim them, and what to do if anything is missing.
         </span>
       </div>
     </a>
   </div>
 
   <div className="flex flex-col gap-4">
-    <h2 className="text-lg font-medium tracking-tight text-gray-900 dark:text-gray-50">The rooms</h2>
+    <h2 className="text-lg font-medium tracking-tight text-gray-900 dark:text-gray-50">Resources</h2>
 
     <Columns cols={2}>
-      <Card title="☽ Atrium" icon="door-open" iconType="light" href="/atrium">
-        The inbox. Every thought enters here first, unsorted.
+      <Card title="HR & People" icon="users" iconType="light" href="/hr-people">
+        Benefits, time off, performance reviews, and compensation.
       </Card>
-      <Card title="♂︎ Atelier" icon="hammer" iconType="light" href="/atelier">
-        Projects with an outcome and a horizon.
+      <Card title="IT & Security" icon="shield-check" iconType="light" href="/it-security">
+        Access requests, device policy, and security training.
       </Card>
     </Columns>
 
     <Columns cols={2}>
-      <Card title="♃ Tablinum" icon="scroll" iconType="light" href="/tablinum">
-        Areas of life you keep to a standard.
+      <Card title="Policies" icon="scroll" iconType="light" href="/policies">
+        Code of conduct, expense reimbursement, travel, and remote work.
       </Card>
-      <Card title="♀︎ Bibliotheca" icon="library" iconType="light" href="/bibliotheca">
-        Shelves of knowledge, sources, and collected beauty.
-      </Card>
-    </Columns>
-
-    <Columns cols={2}>
-      <Card title="☿ Hortus" icon="sprout" iconType="light" href="/hortus">
-        The garden of your own ideas, one per note.
-      </Card>
-      <Card title="♄ Ephemeris" icon="moon" iconType="light" href="/ephemeris">
-        Daily notes and the rhythm of reviews.
+      <Card title="Engineering" icon="code-xml" iconType="light" href="/engineering">
+        Dev setup, deployment, incident response, and architecture.
       </Card>
     </Columns>
-
-    <Columns cols={2}>
-      <Card title="☉ Speculum" icon="contrast" iconType="light" href="/speculum">
-        The mirror: your profile, polarity map, and decisions.
-      </Card>
-      <Card title="Hypogeum" icon="vault" iconType="light" href="/hypogeum">
-        The archive below. Nothing is deleted; it descends.
-      </Card>
-    </Columns>
-  </div>
-
-  <div className="flex flex-col gap-4">
-    <h2 className="text-lg font-medium tracking-tight text-gray-900 dark:text-gray-50">Three gestures</h2>
-
-    <Steps>
-      <Step title="Capture">
-        Tell Claude `Capture: …`, `Запиши: …`, or `Note : …`. It lands in the Atrium in seconds.
-      </Step>
-      <Step title="Sort">
-        Once a week, say `Sort the atrium`. Every item finds its room.
-      </Step>
-      <Step title="Review">
-        Weekly, and at each new and full moon, the palace reflects you back and pushes where you asked it to. See the [rituals](/palace/rituals).
-      </Step>
-    </Steps>
   </div>
 </div>
