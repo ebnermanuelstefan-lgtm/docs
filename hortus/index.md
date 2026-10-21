@@ -30,3 +30,4 @@ To plant an idea, tell Claude `Plant: …`.
 
 - Seed: [Studying in public could be how I finish the backlog](/hortus/studying-in-public-could-finish-the-backlog)
 - Seed: [My own business is a question, not yet a project](/hortus/my-business-is-a-question-not-yet-a-project)
+- Seed: [EPFL stays open after the Bulgarian licence](/hortus/epfl-after-the-licence)

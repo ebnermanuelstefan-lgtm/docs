@@ -27,3 +27,5 @@ To open a project, tell Claude `New project: …`.
 | --- | --- | --- | --- | --- |
 | [Graduate in 2028](/atelier/graduate-2028) | Degree finished with the final lecture in 2028 | 2028 | active | Finish the first wave |
 | [First wave: five courses](/atelier/first-wave-2026) | Five first- and second-year courses submitted | 2026-12-23 | active | Ask what descriptive geometry requires |
+| [Bozhurishte model](/atelier/bozhurishte-model) | Physical model of the urban plan, submitted | 2026-12-23 | active | Choose scale and materials |
+| [Course register 2026/27](/atelier/course-register-2026-27) | All 16 courses this semester, with known deadlines | 2026-12-24 | active | Ask the open questions to lecturers |
