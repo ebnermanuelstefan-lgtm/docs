@@ -4,7 +4,7 @@ sidebarTitle: "♃ Tablinum"
 description: "Areas: the ongoing responsibilities of your life, each kept to a standard."
 room: tablinum
 type: index
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 The tablinum was the room of the Roman house where the head of the family received visitors, kept the records, and governed the household. Here it holds the areas of your life that never finish but must be kept well.
@@ -19,6 +19,11 @@ The tablinum was the room of the Roman house where the head of the family receiv
 
 | Area | Standard | Cadence | Status |
 | --- | --- | --- | --- |
-| No areas yet | The intake proposes your areas | | |
+| Work | Sales in luxury retail, Sofia; the bridge towards architecture or interiors | Weekly | active |
+| Studies | Integrated master's in architecture, fifth year | Weekly | active |
+| Friends | To define | Monthly | active |
+| Money | First standard: an overview of where it goes | Weekly | active |
+| Home and organisation | To define: cleaning, order, routines | Weekly | active |
+| Digital tools | Claude and the Apple ecosystem (iPhone, iPad, iMac, MacBook) working together | Monthly | active |
 
-Common candidates, to confirm or replace at the intake: health and body, wealth and finances, home and surroundings, work and vocation, relationships, craft and learning.
+Standards marked "to define" are set at the first weekly review.

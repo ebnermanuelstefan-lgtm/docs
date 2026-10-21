@@ -37,4 +37,5 @@ Dates are in UTC and computed with Jean Meeus's lunar phase algorithm.
 
 Newest first.
 
+- 2026-10-21 — Intake, part I: your world. Areas, first projects, and interests recorded.
 - 2026-10-18 — The palace was founded.

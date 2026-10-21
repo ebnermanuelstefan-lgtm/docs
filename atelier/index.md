@@ -4,7 +4,7 @@ sidebarTitle: "♂︎ Atelier"
 description: "Projects: efforts with a finished state and a horizon date."
 room: atelier
 type: index
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 The atelier is the workshop, where things are made and finished. A note belongs here only if it can end.
@@ -25,4 +25,5 @@ To open a project, tell Claude `New project: …`.
 
 | Project | Outcome | Horizon | Status | Next action |
 | --- | --- | --- | --- | --- |
-| No projects yet | Answer the intake to seed this register | | | |
+| [Graduate in 2028](/atelier/graduate-2028) | Degree finished with the final lecture in 2028 | 2028 | active | Finish the first wave |
+| [First wave: five courses](/atelier/first-wave-2026) | Five first- and second-year courses submitted | 2026-12-23 | active | Ask what descriptive geometry requires |

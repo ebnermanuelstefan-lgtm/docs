@@ -4,7 +4,7 @@ sidebarTitle: "☿ Hortus"
 description: "The garden of your own ideas: one idea per note, titled as a claim, linked to its neighbours."
 room: hortus
 type: index
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
 The *hortus conclusus*, the enclosed garden, was the private garden of the medieval cloister and the villa. This one grows your own thinking. Only your ideas live here. Quotations and references stay on the shelves of the [Bibliotheca](/bibliotheca); your response to them is planted here.
@@ -28,4 +28,5 @@ To plant an idea, tell Claude `Plant: …`.
 
 ## Plants
 
-No ideas planted yet.
+- Seed: [Studying in public could be how I finish the backlog](/hortus/studying-in-public-could-finish-the-backlog)
+- Seed: [My own business is a question, not yet a project](/hortus/my-business-is-a-question-not-yet-a-project)

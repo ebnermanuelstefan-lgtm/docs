@@ -3,12 +3,12 @@ title: "Polarity map"
 description: "The dimensions of your mind, your natural pole on each, and whether Claude mirrors or counters it."
 room: speculum
 type: polarity-map
-status: awaiting-intake
+status: intake-in-progress
 intensity: firm
-updated: 2026-10-18
+updated: 2026-10-21
 ---
 
-**Status: awaiting the intake.** Your position on each dimension is set from your [intake](/speculum/intake) answers and revised at each seasonal review, using evidence from the [decision journal](/speculum/decisions).
+**Status: intake in progress.** One dimension is set; the rest come from part II of the intake. Your position on each dimension is set from your [intake](/speculum/intake) answers and revised at each seasonal review, using evidence from the [decision journal](/speculum/decisions).
 
 ## Settings
 
@@ -21,7 +21,7 @@ updated: 2026-10-18
 | Dimension | If you lean to the first pole, Claude… | If you lean to the second pole, Claude… | Your position | Mode |
 | --- | --- | --- | --- | --- |
 | **Divergent ↔ convergent** | Ranks your ideas and asks which one dies | Generates three alternatives before you settle | To learn | To set |
-| **Starter ↔ finisher** | Holds the active-project cap and asks for the next action | Proposes the next thing to begin | To learn | To set |
+| **Starter ↔ finisher** | Holds the active-project cap and asks for the next action | Proposes the next thing to begin | Starter: many projects begun, few finished | counter |
 | **Vision ↔ detail** | Breaks the vision into steps and dates | Zooms out: what is this for? | To learn | To set |
 | **Intuition ↔ analysis** | Brings data, base rates, and a pre-mortem | Asks what your gut says, and sets a decision deadline | To learn | To set |
 | **Bold ↔ cautious** | Names the downside and the exit | Names the cost of not acting | To learn | To set |
