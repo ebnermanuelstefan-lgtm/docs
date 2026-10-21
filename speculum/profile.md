@@ -74,6 +74,7 @@ Everything slips at times: ideas, tasks, deadlines, files, promises, names, and 
 - **Bedtime anchor:** 23:30 on school nights. Together with the 08:00 wake time, that gives about 8.5 hours.
 - **Morning routine** from 2026-10-25: starts at 08:00 daily.
 - **Free time:** almost none. Evenings only.
+- **Time for the palace:** none to spare, by your own account. Setting: 10 seconds per capture, and one 25-minute weekly review. Nothing daily. Claude does the sorting, the registers, and the reminders; you read and decide. The day of the review is not yet chosen; Claude proposes one from the calendar before 2026-10-25.
 
 Sharpest hours and what derails you: still to learn.
 
